@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.com/jvamvas/crazy_tiger.svg?token=WWZSiXG1KwDSsmm3ZMm5&branch=master)](https://travis-ci.com/jvamvas/crazy_tiger)
 
-Generate harmless random nicknames, such as CrazyTiger
+Generate harmless random nicknames, such as CrazyTiger or MajesticCat
 
-Examples:
+Other Examples:
 
 ```
 FabulousHamster
