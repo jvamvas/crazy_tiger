@@ -30,4 +30,4 @@ TropicalWombat
 ## Credits
 This project is inspired by the learning platform _Kahoot!_ and its _Friendly Nickname Generator_, which helps to avoid inappropriate nicknames in _Kahoot!_ games.
 
-The word lists used in this project can be accessed here: All credit for the idea and for compiling appropriate words goes to the _Kahoot!_ team.
+The word lists used in this project can be accessed [here](https://github.com/jvamvas/crazy_tiger/blob/master/src/crazy_tiger/words.py). All credit for the idea and for compiling appropriate words goes to the _Kahoot!_ team.
